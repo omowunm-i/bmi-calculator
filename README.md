@@ -25,12 +25,14 @@ A simple Python program that calculates the **Body Mass Index (BMI)** based on a
    git clone https://github.com/omowunm-i/bmi-calculator.git
    cd bmi-calculator
 2. Run the program:
-     python BodyMassIndex.py
-3. Example run: 
-    Enter your weight in kilograms: 60
-    Enter your height in meters: 1.65
-    The body mass index is: 22.04
-    Normal weight
+   ```bash
+   python BodyMassIndex.py
+3. Example run:
+   ```bash 
+   Enter your weight in kilograms: 60
+   Enter your height in meters: 1.65
+   The body mass index is: 22.04
+   Normal weight
 
 Screenshot: screenshot.png
 
